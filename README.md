@@ -4,7 +4,7 @@
 <h3 align="left">Innovative Developer, Human-Centered Problem Solver 🚀</h3>
 
 - 📫 How to reach me **miomum13@naver.com**
-
+- 🏚 https://hearai.tistory.com/manage/posts/
 <p align="left">
 </p>
 
